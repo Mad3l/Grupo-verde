@@ -127,6 +127,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="agregar_experiencia\agregar_experiencia.html" />
+    <Content Include="agregar_experiencia\css\editor.css" />
+    <Content Include="agregar_experiencia\js\editor.js" />
+    <Content Include="agregar_experiencia\js\jquery-1.12.0.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
