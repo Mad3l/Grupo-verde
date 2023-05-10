@@ -173,3 +173,8 @@ D:\ucci\202310\Taller de proyectos 2\Repositorio\Equipo Verde\WEB\WEB_ADMIN\admi
 D:\ucci\202310\Taller de proyectos 2\Repositorio\Equipo Verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\obj\Debug\admin_web_p.dll
 D:\ucci\202310\Taller de proyectos 2\Repositorio\Equipo Verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\obj\Debug\admin_web_p.pdb
 >>>>>>> e02cfee80f62cb301cfdabc225edc645013337e5
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\bin\roslyn\System.Buffers.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\bin\roslyn\System.Memory.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\bin\roslyn\System.Numerics.Vectors.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\admin_web_p\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

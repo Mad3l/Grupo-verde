@@ -124,35 +124,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Content Include="agregar_experiencia\agregar_experiencia.html" />
-    <Content Include="agregar_experiencia\css\editor.css" />
-    <Content Include="agregar_experiencia\css\tamaño_librerias.css" />
-    <Content Include="agregar_experiencia\css\Titulos.css" />
-    <Content Include="agregar_experiencia\imagen_icon\carga_url.png" />
-    <Content Include="agregar_experiencia\js\editor.js" />
-    <Content Include="agregar_experiencia\js\jquery-1.12.0.js" />
-    <Content Include="agregar_experiencia\prueba.html" />
-    <Content Include="Content\bootstrap-theme.css" />
-    <Content Include="Content\bootstrap-theme.min.css" />
-=======
-    <Content Include="Content\bootstrap-grid.css" />
-    <Content Include="Content\bootstrap-grid.min.css" />
-    <Content Include="Content\bootstrap-grid.rtl.css" />
-    <Content Include="Content\bootstrap-grid.rtl.min.css" />
-    <Content Include="Content\bootstrap-reboot.css" />
-    <Content Include="Content\bootstrap-reboot.min.css" />
-    <Content Include="Content\bootstrap-reboot.rtl.css" />
-    <Content Include="Content\bootstrap-reboot.rtl.min.css" />
-    <Content Include="Content\bootstrap-utilities.css" />
-    <Content Include="Content\bootstrap-utilities.min.css" />
-    <Content Include="Content\bootstrap-utilities.rtl.css" />
-    <Content Include="Content\bootstrap-utilities.rtl.min.css" />
->>>>>>> e02cfee80f62cb301cfdabc225edc645013337e5
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="experiencia\agregar_experiencia.html" />
+    <Content Include="experiencia\css\editor.css" />
+    <Content Include="experiencia\css\tamano_librerias.css" />
+    <Content Include="experiencia\css\Titulos.css" />
+    <Content Include="experiencia\imagen_icon\carga_url.png" />
+    <Content Include="experiencia\js\editor.js" />
+    <Content Include="experiencia\js\jquery-1.12.0.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
