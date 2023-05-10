@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/range_numeros.css" rel="stylesheet" />
+    <script src="js/rango.js"></script>
+</head>
+<body>
+    <div class="range-slider overlay" style='--min:0; --max:10; --value-a:2; --value-b:5; --text-value-a:"2"; --text-value-b:"5";'>
+        <input type="range" min="0" max="10" value="2" oninput="this.parentNode.style.setProperty('--value-a',this.value); this.parentNode.style.setProperty('--text-value-a', JSON.stringify(this.value))">
+        <input type="range" min="0" max="10" value="5" oninput="this.parentNode.style.setProperty('--value-b',this.value); this.parentNode.style.setProperty('--text-value-b', JSON.stringify(this.value))">
+        <div class='range-slider__values'>0 1 2 3 4 5 6 7 8 9 10</div>
+        <div class='range-slider__progress'></div>
+    </div>
+</body>
+</html>

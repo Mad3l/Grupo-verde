@@ -129,8 +129,12 @@
   <ItemGroup>
     <Content Include="agregar_experiencia\agregar_experiencia.html" />
     <Content Include="agregar_experiencia\css\editor.css" />
+    <Content Include="agregar_experiencia\css\tamaño_librerias.css" />
+    <Content Include="agregar_experiencia\css\Titulos.css" />
+    <Content Include="agregar_experiencia\imagen_icon\carga_url.png" />
     <Content Include="agregar_experiencia\js\editor.js" />
     <Content Include="agregar_experiencia\js\jquery-1.12.0.js" />
+    <Content Include="agregar_experiencia\prueba.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
