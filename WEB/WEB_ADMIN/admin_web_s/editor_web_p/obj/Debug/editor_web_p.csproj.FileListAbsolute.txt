@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\editor_web_p.dll.config
 C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\editor_web_p.dll
 C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\editor_web_p.pdb
@@ -66,3 +67,73 @@ C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\edi
 C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.csproj.CopyComplete
 C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.dll
 C:\Users\LENOVO\Videos\web_admin_verde\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.pdb
+=======
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\editor_web_p.dll.config
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\editor_web_p.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\editor_web_p.pdb
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\csc.exe
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\csc.exe.config
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\csc.rsp
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\csi.exe
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\csi.exe.config
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\csi.rsp
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Buffers.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Collections.Immutable.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Memory.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Numerics.Vectors.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Reflection.Metadata.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\vbc.exe
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\vbc.exe.config
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\vbc.rsp
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\VBCSCompiler.exe
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\roslyn\VBCSCompiler.exe.config
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Antlr3.Runtime.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Microsoft.Web.Infrastructure.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Newtonsoft.Json.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Helpers.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Mvc.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Optimization.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Razor.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.WebPages.Deployment.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.WebPages.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.WebPages.Razor.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\WebGrease.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Newtonsoft.Json.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Helpers.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Mvc.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Optimization.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.Razor.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.WebPages.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.WebPages.Deployment.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\System.Web.WebPages.Razor.xml
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\Antlr3.Runtime.pdb
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.Helpers.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.Mvc.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.Optimization.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.Razor.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.WebPages.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.csproj.AssemblyReference.cache
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.csproj.CoreCompileInputs.cache
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.csproj.CopyComplete
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.dll
+D:\2023\Proyectos 2 version 2\Grupo-verde\WEB\WEB_ADMIN\admin_web_s\editor_web_p\obj\Debug\editor_web_p.pdb
+>>>>>>> b158b2e8a75493e22f4becc4c85fd3123f1b3cf2

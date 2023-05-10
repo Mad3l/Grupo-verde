@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Experiencias</title>
+
+    <script type="text/javascript" src="js/jquery-1.12.0.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/editor.js"></script>
+    <link href="css/editor.css" rel="stylesheet" />
+    <link href="css/tamano.css" rel="stylesheet" />
+    <link href="css/Titulos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#txt-content').Editor();
+            $('#btn-enviar').click(function (e) {
+                e.preventDefault();
+                var texto = $('#txt-content').Editor('getText');
+
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#txt-content_2').Editor();
+            $('#btn-enviar').click(function (e) {
+                e.preventDefault();
+                var texto_2 = $('#txt-content_2').Editor('getText');
+
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#txt-content_3').Editor();
+            $('#btn-enviar').click(function (e) {
+                e.preventDefault();
+                var texto_2 = $('#txt-content_3').Editor('getText');
+
+            });
+        });
+    </script>
+</head>
+<body>
+
+    <div class="col-lg-4">
+        <div class="container " style="margin-left:10px">
+            <div>
+
+                <div class="col-sm-6">
+                    <h1 style="text-align:center" class="diseño_titulos">Titulo</h1>
+                    <div class="form-group">
+                        <textarea id="txt-content" name="txt-content"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="margin-left:10px">
+            <div>
+
+                <div class="col-sm-6">
+                    <h1 style="text-align:center" class="diseño_titulos">Subtitulo</h1>
+                    <div class="form-group">
+                        <textarea id="txt-content_2" name="txt-content_2" rows="4" cols="50"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="margin-left:10px">
+            <div>
+                <div class="col-sm-6">
+                    <h1 style="text-align:center" class="diseño_titulos">Parrafo</h1>
+                    <div class="form-group ">
+                        <textarea id="txt-content_3" name="txt-content_3"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+
+        <div class="container_1 ">
+            <div>
+                <p class="diseño_texto_1">Tipo de Contenido   </p>
+                <select>
+                    <option value="">Seleccione una opción</option>
+                    <option value="opcion1">Imagen</option>
+                    <option value="opcion2">Audio</option>
+                    <option value="opcion3">Imagen 360</option>
+                </select>
+            </div>
+            <div>
+                <p class="diseño_texto_2">Ícono   </p>
+                <select>
+                    <option value="">Seleccione una opción</option>
+                    <option value="opcion1">1</option>
+                    <option value="opcion2">2</option>
+                    <option value="opcion3">3</option>
+                </select>
+
+            </div>
+            <br><br><br>
+            <div>
+                <p class="diseño_texto_3">Imagen   </p>
+                <a href="#" class="button"> </a>
+
+            </div>
+            <br><br><br>
+            <div>
+                <p class="diseño_texto_1">URL Video</p>
+                <div>
+                    <input type="text" id="url_galeria" class="imput_1" />
+                    <a href="https://www.youtube.com">
+                        <img class="imagen_1" src="imagen_icon/carga_url.png" />
+                    </a>
+                </div>
+
+            </div>
+            <br><br><br>
+            <div class="container_2">
+
+            </div>
+            <div>
+                <p class="diseño_texto_4">Inicio de Ciclo</p>
+                <div>
+                    <input type="number" id="ciclo_inico" class="imput_2" />
+                </div>
+
+            </div>
+            <br><br><br><br>
+            <div>
+                <p class="diseño_texto_5">Fin de Ciclo</p>
+                <div>
+                    <input type="number" id="ciclo_fin" class="imput_3" />
+                </div>
+
+            </div>
+
+        </div>
+
+        <button type="button" class="btn_1 diseño_titulos_2">Cancelar</button>
+        <button type="button" class="btn_2 diseño_titulos_2">Crear Experiencia</button>
+
+    </div>
+
+</body>
+</html>
