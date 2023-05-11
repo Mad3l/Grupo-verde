@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="experiencia_master.Master.cs" Inherits="ejemplo.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript" src="js/jquery-1.12.0.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/editor.js"></script>
+    <link href="css/editor.css" rel="stylesheet" />
+    <link href="css/tamano_librerias.css" rel="stylesheet" />
+    <link href="css/titulos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link href="css/estilos_experiencia.css" rel="stylesheet" />
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#txt-content').Editor();
+            $('#btn-enviar').click(function (e) {
+                e.preventDefault();
+                var texto = $('#txt-content').Editor('getText');
+
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#txt-content_2').Editor();
+            $('#btn-enviar').click(function (e) {
+                e.preventDefault();
+                var texto_2 = $('#txt-content_2').Editor('getText');
+
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#txt-content_3').Editor();
+            $('#btn-enviar').click(function (e) {
+                e.preventDefault();
+                var texto_2 = $('#txt-content_3').Editor('getText');
+
+            });
+        });
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
