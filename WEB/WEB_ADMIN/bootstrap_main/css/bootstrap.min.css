@@ -8,7 +8,19 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 
-/*css*/
+/*CSS*/
+/* Display*/
+
+/*
+
+*{
+    border: 1px solid red;
+    padding: 0;
+    margin: 0;
+}
+
+*/
+
 
 .ul-vertical-ini{
     height: 60%;
@@ -26,8 +38,9 @@
     align-items: center; /* centrado vertical */
 }
 
-.border-radius-30{
-    border-top-left-radius: 30px;
+.border-radius-20{
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
 }
 
 .bg-color-white{
@@ -42,15 +55,48 @@
 }
 
 .bg-moradouc-degra{
-    background: linear-gradient(150deg, #6900c4 0%, #39006B 100%);
+    background: linear-gradient(180deg, #6900c4 40%, #39006B 100%);
 }
 
-.div-altura{
-    height: 90%;
+@media (min-width: 768px){
+
+    .img-icon-logo-w-max{
+        max-width: 63.90px;
+    }
+
+    .max-w-icono-nav{
+        max-width: 66px;
+    }
+
 }
 
-.header-altura{
-    height: 10%;
+@media (min-width: 1400px){
+
+    .width-100-div{
+        width: 100%;
+    }
+
+    .nav-2-lat-w-max{
+        width: 95%;
+    }
+
+    .nav-lat-w-max{
+        width: 5%; 
+    }
+
+    .nav-altura-max{
+        max-height: 100%;
+    }
+
+    .nav-altura-100{
+        height: 100%;
+    }
+
+    .max-w-icono-nav{
+        max-width: 66px;
+    }
+
+    .max-w-icono-nav{
+        max-width: 66px;
+    }
 }
-
-
