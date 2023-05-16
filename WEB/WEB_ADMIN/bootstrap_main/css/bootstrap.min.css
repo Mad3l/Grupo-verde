@@ -99,4 +99,9 @@
     .max-w-icono-nav{
         max-width: 66px;
     }
+
+    .altura_contenedor{
+        height: 20rem;
+
+    }
 }
