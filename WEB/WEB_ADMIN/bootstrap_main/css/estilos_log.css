@@ -1,0 +1,52 @@
+
+
+/*
+*{
+    border: 1px solid red;
+}
+*/
+
+
+.alto-provi{
+    height: 700px;
+}
+
+
+/*COLORES DE LOS FONDOS*/
+
+.fondo_color{
+    background: linear-gradient(155deg, #4C1980 0%, #A304A3 50%, #F97373 100%);
+}
+
+.fondo_2_color{
+    background: linear-gradient(135deg, #8C2E81 0%, #6900C4 100%);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.fondo_2_white{
+    background-color: white;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.btn-uc-multicolor{
+    background: linear-gradient(90deg, #6900C4 0%, #F77074 100%);
+    font-size: 3rem;
+}
+
+/*Tamaños de contenedor*/
+
+.width-div{
+    width: 40%;
+}
+
+.width-div-90{
+    width: 90%;
+}
+
+.height-div-90{
+    height: 90%;
+}
+
+
